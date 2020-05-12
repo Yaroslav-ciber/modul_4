@@ -192,7 +192,7 @@ body {
     font-size: 48px;
     color: #515151;
     text-transform: uppercase;
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 800;
     position: relative;
     display: inline-block;
@@ -251,6 +251,7 @@ body {
     text-decoration: none;
     padding: 20px 45px;
     display: inline-block;
+    border-radius: 5px;
 }
 .img_n {
     width: 350px;
